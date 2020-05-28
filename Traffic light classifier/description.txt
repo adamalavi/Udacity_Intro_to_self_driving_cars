@@ -1,0 +1,3 @@
+Construct a traffic light classifier that classifies an image of a traffic light as red, yellow or green. 
+A feature was used to extract the average values of V channel from an hsv image in three different horizontal sections of that image to
+determine which light is glowing. A testing accuracy of 97.97% was achieved and no red light was classifiesd as green.
