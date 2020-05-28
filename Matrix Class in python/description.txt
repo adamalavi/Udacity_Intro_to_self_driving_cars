@@ -1,1 +1,1 @@
-Making a matrix class in Python to implement various linear algebraic functions on matrices.
+Making a matrix class in Python to implement various linear algebraic functions on matrices to implement a working 2D Kalman filter.
