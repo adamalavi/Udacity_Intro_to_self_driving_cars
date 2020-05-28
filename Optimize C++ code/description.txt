@@ -1,0 +1,2 @@
+Optimizing various functions in C++ to increase the speed of execution. The execution time of all the functions together was 
+brought down from approximately 350ms to less than 15ms.
