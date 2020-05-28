@@ -1,0 +1,2 @@
+A histogram filter implemeneted for a 2D cyclic world where the probabilities of the Robot's position in a 
+particular cell is updated after every move that the robot makes and after every iteration of sensing its environment.
