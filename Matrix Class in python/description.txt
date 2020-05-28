@@ -1,0 +1,1 @@
+Making a matrix class in Python to implement various linear algebraic functions on matrices.
